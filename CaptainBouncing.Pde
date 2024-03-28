@@ -4,7 +4,7 @@ int yCap = 100;
 void setup() {
   size(600,600);
   background(255);
-  img = loadImage("captain.jpeg");
+  img = loadImage("Captain.jpg");
 }
 
 void draw() {
