@@ -21,6 +21,9 @@ Use the structure below for your report. Remove lines 3 and 5 of the markdown fi
  
 ## Project Management
  - List the tasks and issues that are currently on your project board, and their status. Include who has been assigned to do the job, and who will be responsible for reviewing the tasks before it is moved to the `Done` column.
+ Our given taks were to program an animation of a "Captin" which is our subject and the action with the subject being "bouncing", this will be established with an image of the captin black beard bouncing on the moon. The obejct is "hair", and this will be a shown by a girl on a mountain with her hair brezzing.
+The  
+ 
  - Explain which methods you will use for code review. Note, that reviewing a task, and reviewing code, are two separate activities.
  - Explain the overall progress with respect to the mid-semester milestone. 
 
