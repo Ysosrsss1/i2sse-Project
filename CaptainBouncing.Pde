@@ -3,39 +3,41 @@ int xCap = 100;
 int yCap = 100;
 void setup() {
   size(600,600);
-  background(255);
+  background(0);
   img = loadImage("Captain.jpg");
+  
 }
 
 void draw() {
-  image(img, xCap, yCap, width/2, height/2);
-  
-  
+  image(img, xCap, yCap, 300, 300);
+
    fill(156, 157, 152);
-   circle(width/2, height+height/2, width*2);
+   circle(300, 1000, 1200); //moon
    fill(211, 211, 207);
-   circle(width - 100, height -100, 100);
-   circle(width/3, height - 100, 40);
-   circle(150, height - 200, 60);
+   circle(500, 600, 100);  // light grey circle
+   circle(200, 600, 40);   // light grey circle
+   circle(150, 500, 60);    // light grey circle
    fill(113, 113, 110);
-   circle(width/2, height - 150, 140);
-   circle(100, height - 100, 75);
-   circle(width - 150, height -200, 50);
+   circle(300, 550, 140); //dark grey circles
+   circle(100, 600, 75);   //dark grey circles
+   circle(450, 500, 50);   //dark grey circles
    
+   
+
  }
  void mousePressed(){
    while(mouseX-150 > xCap){
-     background(255);
+     background(0);
      xCap+=1;
    }while(mouseX-150 < xCap){
-     background(255);
+     background(0);
      xCap-=1;
    }
    while(yCap > 0 ){
-     background(255);
+     background(0);
      yCap-=1;
    }while(yCap < 100){
-     background(255);
+     background(0);
      yCap+=1;
    }
  }
