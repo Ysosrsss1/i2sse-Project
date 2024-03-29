@@ -14,7 +14,7 @@ Use the structure below for your report. Remove lines 3 and 5 of the markdown fi
  
 
 ## User Stories and Requirements
- - User story : As a user, I want to see an animation of a Captain bouncing on the moon
+ - User story : As a user, I want to see an animation of a Captain bouncing on the moon, so that i can interact with the captain bouncing.
 
  - Requirement : The program should show a captain bouncing
 
@@ -31,7 +31,7 @@ Acceptance criteria :
  The figure is animated
  The user can interact with the figure
 
- User story : As a user , I want to see an animation of hair waving or flowing, so that I can see it move.
+ User story : As a user , I want to see an animation of a girl's hair waving or flowing, so that I can see it move.
 
 Tasks :
 
@@ -61,8 +61,12 @@ Acceptance criteria :
  
 ## Project Management
  - List the tasks and issues that are currently on your project board, and their status. Include who has been assigned to do the job, and who will be responsible for reviewing the tasks before it is moved to the `Done` column.
- Our given taks were to program an animation of a "Captin" which is our subject and the action with the subject being "bouncing", this will be established with an image of the captin black beard bouncing on the moon. The obejct is "hair", and this will be a shown by a girl on a mountain with her hair brezzing.
-The  
+Our given taks were to program an animation of a "Captin" which is our subject and the action with the subject being "bouncing", this will be established with an image of the captin black beard bouncing on the moon which will be completed by Ibby and Mohamad.
+So far this task is in the In Progress column with Ali and Efe reviewing it before it is moved to the done column. 
+The second task was to make an animation about our obejct, which is "hair", and this will be a shown by a girl on a mountain with her hair brezzing which will be completed by Ali and Efe.
+So far this task is in the In progress column with Ibby and Mohamad reviewing it before it is moved to the done column.
+We had two more issues which are requirements that were to upadate the Readme file aswell as finishing the To-Do list.
+The Update Readme issue is in the Done column being reviewed by the Whole group, whereas the To-Do list is still In Progress which will be reviewed by the whole group before it is moved to the Done column.
  
  - Explain which methods you will use for code review. Note, that reviewing a task, and reviewing code, are two separate activities.
  - Explain the overall progress with respect to the mid-semester milestone. 
