@@ -44,7 +44,7 @@ Acceptance criteria :
 
 Hair is recognisable.
 Object is animated.
-The use can interact with the object.
+The user can interact with the object.
 When the user clicks the hair must start waving or flowing and when the user clicks again it should stop.
 
 ## User Acceptance Tests
