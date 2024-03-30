@@ -10,9 +10,8 @@ Use the structure below for your report. Remove lines 3 and 5 of the markdown fi
  We expect that the first program must include a captain either as image or sketch bouncing on the moon aswell as being easily recogonizable to the user. 
  We want to create a program that shows a captain bounce from one place to a place where the user has clicked which enables this program to be engaging with the user.
  The second program is about an animation of girl's hair either flowing or waving. We expect that the program must include either an image or sketch of girl's hair aswell as implemting a program that displays the hair.
- We must add the flowing or waving animation part to the girl's hair so whenever the user interacts with it by clicking the animation, it would make it engaging.
+ We must add the flowing or waving animation part to the girl's hair so whenever the user interacts with it by clicking the animation, so it becomes engaging.
  
-
 ## User Stories and Requirements
  - User story : As a user, I want to see an animation of a Captain bouncing on the moon, so that i can interact with the captain bouncing.
 
@@ -47,9 +46,6 @@ Hair is recognisable.
 Object is animated.
 The use can interact with the object.
 When the user clicks the hair must start waving or flowing and when the user clicks again it should stop.
-
- Given the Processing Program , when the user presses the play button , then the hair starts flowing.
- Given a running program , when the user clicks on the hair , then the hair stops flowing .
 
 ## User Acceptance Tests
 User Story 1- As a user, I want to see an animation of a Captain bouncing on the moon, so that i can interact with the captain bouncing.
@@ -91,7 +87,6 @@ Both these tests cover majority of the most important aspects of the both progra
   -communication
  
 ## Project Management
- - List the tasks and issues that are currently on your project board, and their status. Include who has been assigned to do the job, and who will be responsible for reviewing the tasks before it is moved to the `Done` column.
 Our given taks were to program an animation of a "Captin" which is our subject and the action with the subject being "bouncing", this will be established with an image of the captin black beard bouncing on the moon which will be completed by Ibby and Mohamad.
 So far this task is in the In Progress column with Ali and Efe reviewing it before it is moved to the done column. 
 The second task was to make an animation about our obejct, which is "hair", and this will be a shown by a girl on a mountain with her hair brezzing which will be completed by Ali and Efe.
