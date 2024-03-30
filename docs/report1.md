@@ -62,7 +62,7 @@ Expected outcome: The captain should bounce from his origin to the area where th
 Test Results:
 Pass- The Captain bounces from his origin to the area the user has clicked.
 Fail- The Captain doesn't bounce from His origin to the area the user has clicked.
-`
+
 User story 2- As a user , I want to see an animation of a girl's hair waving or flowing, so that I can see it move.
 
 Test case 1- Verify that the user can interact and make the hair flow in the animation.
