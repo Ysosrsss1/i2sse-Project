@@ -65,7 +65,7 @@ Fail- The Captain doesn't bounce from His origin to the area the user has clicke
 
 User story 2- As a user , I want to see an animation of a girl's hair waving or flowing, so that I can see it move.
 
-Test case 1- Verify that the user can interact and make the hair flow in the animation.
+Test case 2- Verify that the user can interact and make the hair flow in the animation.
 Steps: 
 1- The user opens and runs Hair.pde.
 2- The user clicks on the mouse and the Hair should start flowing and stop when the use clicks again.
