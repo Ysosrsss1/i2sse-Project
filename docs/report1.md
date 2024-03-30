@@ -32,8 +32,8 @@ Acceptance criteria :
   - User story : As a user , I want to see an animation of a girl's hair waving or flowing, so that I can see it move.
 
   - Requirement : The program should show Hair.
-Tasks :
 
+Tasks :
  Sketch or create an image of a hair.
  Implement a program that displays the hair.
  Determine how to animate " flowing ".
