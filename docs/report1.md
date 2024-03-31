@@ -95,6 +95,12 @@ We had two more issues which are requirements, that were to update the ReadMe fi
 The Update Readme issue is in the Done column being reviewed by the Whole group, whereas the To-Do list is still In Progress which will be reviewed by the whole group before it is moved to the Done column.
  
  - Explain which methods you will use for code review. Note, that reviewing a task, and reviewing code, are two separate activities.
+ The methods of which our group review code, is through a pairing method, similar to the tutorial lesson in week 5, this is done by two 
+ members working on either the hair animation task or the bouncing captin animation. In this case it will be Ali and efe woring on the hair animation
+ , one of the two would working on the code of the animation and the other would be reviewing and asking exactly what the code does, fixing or cleaning messy code and adding comments to establish what the code provides.
+ 
  - Explain the overall progress with respect to the mid-semester milestone. 
-
+At the momment the animation of the hair has started and the code is still being worked on, trying to figure out the applications that would work with the hair and what would look engaging.
+The animation of the bouncing captin has been worked on and is almost completed, taking advantage of the captin applying a program of the pirate captin BlackBeard, also applying the bouncing to the captin on the moon to engage the user.
+The animation will include BlackBeard on the moon and where the user clicks with their mouse will allow them to comand the captin to boucne where clicked.
 
