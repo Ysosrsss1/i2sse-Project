@@ -1,9 +1,5 @@
 # Interim report
 
-Before the deadline, download a PDF version of this report, and submit it on iLearn. We will mark the report uploaded on iLearn.
-
-Use the structure below for your report. Remove lines 3 and 5 of the markdown file.
-
 ## Introduction
  Our i2sse Project received a subject (Captain), object (Hair) and an activity (Bouncing), which our team decided on two animation programs. 
  The first program is going to show an animation of a captain on the moon bouncing whereas the second animation is going to be about an animation of a girl's hair waving or flowing.
