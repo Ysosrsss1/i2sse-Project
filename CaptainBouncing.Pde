@@ -25,6 +25,14 @@ void draw() {
    
 
  }
+ 
+ /*
+   This method is called when the mouse is pressed.
+   It moves the character towards the mouse cursor horizontally and vertically.
+   The character moves horizontally until its x-coordinate matches mouseX - 150.
+   The character moves vertically until its y-coordinate is within the range [0, 100].
+*/
+
  void mousePressed(){
    while(mouseX-150 > xCap){
      background(0);
