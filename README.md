@@ -1,7 +1,7 @@
 # i2sse-Project
 i2sse Project
 
-This Project is about making an animation about a captain bouncing while having a different animation about hair
+This Project is about making an animation about a captain bouncing while having a different animation about hair and including a warning
 
 Captain Bouncing
 Acceptance criteria :
