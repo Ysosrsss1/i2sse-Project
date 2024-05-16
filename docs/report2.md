@@ -50,4 +50,3 @@ Select at least four sub-components of your animation.
 - List all external sources for code, design, or other artefacts that you have used in your program.
 - List all tools that you have used beyond Processing, Git, GitHub,- and word processing tools in your project. For both programming and the creation of documentation.
 - Include any other acknowledgement of contributors beyond your team or teaching staff, i.e. anyone who was not on your team or a tutor or lecturer, who helped you nevertheless.
-!
