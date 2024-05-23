@@ -9,6 +9,7 @@ int hairFrequency = 60;
 float gravity = 1.0;
 PImage blackbeardImage;
 PImage hairImage;
+PImage Goku;
 int blackbeardWidth = 100;
 int blackbeardHeight = 100;
 int hairWidth = 50;
@@ -23,7 +24,8 @@ ArrayList<PVector> craters;
 void setup() {
   size(800, 400);
   blackbeardImage = loadImage("blackbeard.jpg");
-  hairImage = loadImage("hair.jpg");
+  hairImage = loadImage("HairGoku.png");
+  Goku = loadImage("gokuGRRR.jpg");
   initializeGame();
   frameRate(60);
 }
@@ -60,6 +62,8 @@ void draw() {
     updateCaptain();
     drawBlackbeard(captainPosition.x, captainPosition.y);
     
+    drawGoku(650, 320);
+   
     updateObstacles();
     
     // Draw score centered
@@ -111,6 +115,10 @@ void updateObstacles() {
 // Draw Blackbeard character
 void drawBlackbeard(float x, float y) {
   image(blackbeardImage, x, y, blackbeardWidth, blackbeardHeight);
+}
+
+void drawGoku(float x, float y){
+  image(Goku ,650 ,350, 800, 350); 
 }
 
 // Draw hair obstacle
