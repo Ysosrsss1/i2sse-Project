@@ -1,16 +1,12 @@
 # Final Report
 
-Before the deadline, download a PDF version of this report, and submit it on iLearn. We will mark the report uploaded on iLearn.
 
-Use the structure below for your report. Remove lines 3 and 5 of the markdown file.
 
 ## Introduction
 
-Provide a description of the topic, including what the program will do and what the users can expect.
-
+Our topic is of a Captain, a hair, a warning, and bouncing. These 4 components must be merged together within a code, in order to produce am interactable design. Our design would be a interactable captain that will bounce when SpaceBar is pressed, and with this, it must bounce over flying Goku hair that will be shot by Goku himself. This will all be after a warning message will be displayed which warns about a mysterious being on the moon as well. The score will be kept of the top left of the screen, and the score will be displayed with a Game Over screen when the Captain makes contact with the hair. The game will restart/reset once ‘R’ is pressed on the keyboard, resetting the score.
 ## User Manual
 
-Provide a detailed user manual that describes how to interact with your animation.
 	The animation simulates a video game, implementing the given prompts for our project and the interaction it has with the user. 
 		- First is the given interaction which is a "Warning", the user is warned on the incoming hair asteroids.
 		- Second is the subject being a captain which is being represented with the pirate captain Black Beard, the user interacts with the captain by evading the hair asteroids by bouncing above them using the space bar.
@@ -18,8 +14,7 @@ Provide a detailed user manual that describes how to interact with your animatio
 
 ## Design and Architecture
 
-Please include a graphical representation of the architecture of your program, illustrating how its primary components relate to each other. You may omit certain details to ensure clarity in the diagram. It is meant to give an overview.
-| Primary components | User Story ID |
+| Primary components | Explanation |
 |---------|---------------|
 | Setup     | The setup function is what allows the initializeGame function to run as that only needs to run once, also the size of the program and upload the images being used in the program.          |
 | initializeGame     | The initializeGame provides the envoiment such as the moon and space background, also the original postion of the captain and score points.      | 
@@ -29,7 +24,6 @@ Please include a graphical representation of the architecture of your program, i
 | keyPressed     | The key pressed fuction relattes with both the updateCaptain and gameOver fuctions. When the space bar is pressed the captain will bounce up, and when the "r" is pressed when the game is over it resets.      |
 | gameOver     | The game over function is given when the captain is in contact with the obstacles, and when its up the message "Game Over! Score: " comes up with the "Press 'R' to restart" with relates with the keyPressed function.           |
 
-Explain, your diagram, and include a key/legend.
 
 ## User Acceptance Tests
 
@@ -170,9 +164,7 @@ Rationale: This improves the readability and organization of the code by followi
 
 ## Project Management
 
-- Describe the roles and responsibilities of the team members that were agreed on before the sprint commenced.
-- Describe the review processes that you defined before the sprint to ensure software quality.
-- Provide your "Definition of Done."
+The roles and responsibilities that were agreed for each team previously was Mohamad El Ali as the project manager, and Efe as the scrum master. The project owner had the responsibility to collect information and flitter them in order to attain the best project. We have had a full design change multiple time, and some minor design changes over the weeks, including, but are not limited to, putting the hair on a head, bouncing the captain on different planets, changing the type of planet the captain is bouncing on. The scrum master was in charge of allocating each person to a function. Mohamad was put onto the designing the bouncing motion of the captain, Ali was allocated the hair and its movement, and Efe was put on making the warning, background and game over screen, we all then done peer processing in order to fix up the code and make it more cleaner. This is one of the ways that we ensured software quality. Our “Definition of Done” is not really a thing, as we always tend to add more details to the design. So basically our real “Definition of Done” is at the point where we cant think of anything else to add to our design, the code looks good, well formatted and our interaction works as expected.
 
 ## Ethics
 
