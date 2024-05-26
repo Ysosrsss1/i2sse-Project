@@ -19,6 +19,15 @@ Provide a detailed user manual that describes how to interact with your animatio
 ## Design and Architecture
 
 Please include a graphical representation of the architecture of your program, illustrating how its primary components relate to each other. You may omit certain details to ensure clarity in the diagram. It is meant to give an overview.
+| Primary components | User Story ID |
+|---------|---------------|
+| Setup     | The setup function is what allows the initializeGame function to run as that only needs to run once, also the size of the program and upload the images being used in the program.          |
+| initializeGame     | The initializeGame provides the envoiment such as the moon and space background, also the original postion of the captain and score points.      | 
+| draw     | The draw function is what runs the fuctions that need to loop including all the functions below.           |
+| updateCaptain     | This fucnction draws the captain and enables him to bounce and fall back down.          |
+| updateObstacles     | First this function draws the obstacles in random positions, and when contacted with the captain the game will end.          |
+| keyPressed     | The key pressed fuction relattes with both the updateCaptain and gameOver fuctions. When the space bar is pressed the captain will bounce up, and when the "r" is pressed when the game is over it resets.      |
+| gameOver     | The game over function is given when the captain is in contact with the obstacles, and when its up the message "Game Over! Score: " comes up with the "Press 'R' to restart" with relates with the keyPressed function.           |
 
 Explain, your diagram, and include a key/legend.
 
