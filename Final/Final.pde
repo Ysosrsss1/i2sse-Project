@@ -118,7 +118,7 @@ void drawBlackbeard(float x, float y) {
 }
 
 void drawGoku(float x, float y){
-  image(Goku ,650 ,350, 800, 350); 
+  image(Goku, x, y, blackbeardWidth, blackbeardHeight); 
 }
 
 // Draw hair obstacle
