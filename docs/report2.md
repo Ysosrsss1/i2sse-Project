@@ -11,6 +11,10 @@ Provide a description of the topic, including what the program will do and what 
 ## User Manual
 
 Provide a detailed user manual that describes how to interact with your animation.
+	The animation simulates a video game, implementing the given prompts for our project and the interaction it has with the user. 
+		- First is the given interaction which is a "Warning", the user is warned on the incoming hair asteroids.
+		- Second is the subject being a captain which is being represented with the pirate captain Black Beard, the user interacts with the captain by evading the hair asteroids by bouncing above them using the space bar.
+		If done correctly, the score counter add by one with every asteroids evaded. Done incorrectly the game will end giving a game over message giving the option to try again using the "r" command.
 
 ## Design and Architecture
 
